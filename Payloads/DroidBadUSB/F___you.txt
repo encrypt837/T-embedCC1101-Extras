@@ -1,0 +1,5 @@
+DELAY 2000
+GUI SPACE  ; this might be “Search” or “Assistant” key depending on your setup
+DELAY 1000
+STRING https://m.youtube.com/watch?v=RLtlCgpXi0g
+ENTER
