@@ -1,4 +1,4 @@
-![Logo](https://github.com/encrypt837/T-embedCC1101-Extras/assets/tusb.png?raw=true)
+![Logo](/assets/tusb.png)
 # T-embedCC1101-Extras
 Anything Extra: Payloads, Portals, SubGhz, etc.
 ## WILL DROP MORE SOON
